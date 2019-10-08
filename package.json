@@ -1,0 +1,40 @@
+{
+  "name": "line-line-intersect",
+  "version": "1.0.0",
+  "description": "An implementation of the intersection of two lines in JavaScript",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --clearCache && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen-woods/implementing-math-the-programmers-goldmine-01-of-07.git"
+  },
+  "keywords": [
+    "point",
+    "line",
+    "intersect",
+    "math",
+    "points",
+    "lines",
+    "intersection",
+    "mathematics",
+    "linear",
+    "algebra",
+    "javascript"
+  ],
+  "author": "Allen Woods <allen@thesupertask.com> (thesupertask.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allen-woods/implementing-math-the-programmers-goldmine-01-of-07/issues"
+  },
+  "homepage": "https://github.com/allen-woods/implementing-math-the-programmers-goldmine-01-of-07#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  }
+}
