@@ -1,4 +1,4 @@
-# implementing-math-the-programmers-goldmine-01-of-07
+# implementing-math-the-programmers-goldmine-01
 
 Example implementation of line-line intersection using ES2015 JavaScript.
 
