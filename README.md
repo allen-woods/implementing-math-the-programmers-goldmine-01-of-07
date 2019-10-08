@@ -1,30 +1,23 @@
-# implementing-math-the-programmers-goldmine-01-of-07
+# implementing-math-the-programmers-goldmine
 
-Example implementations of line-line intersection using JavaScript.
+This is part of an ongoing series of articles on Medium. To read the companion publications, you may do so here:
 
-This is part of an ongoing series of articles on Medium. To read the companion publication, you may do so here:
-
-[Implementing Math: The Programmer's Goldmine &mdash; Part 1](https://medium.com/@allen.h.woods/implementing-math-the-programmers-goldmine-part-1-cbb224a7eb15)
+1. [Implementing Math: The Programmer's Goldmine &mdash; Part 1](https://medium.com/@allen.h.woods/implementing-math-the-programmers-goldmine-part-1-cbb224a7eb15)
 
 # Installation
 
 First fork and clone this repo to your local machine.
 
-Once cloned, navigate to the created directory in your terminal and use the following commands:
+To open the repo in VSCode from the project directory, use the following terminal command:
 
 ```bash
-  npm install
-  npm run test
+  code .
 ```
 
-To open the project in VSCode from the project directory:
+If this results in an "unknown command" error, follow these steps:
 
 - Open the command palette using Command+Shift+P
 - Search for "Shell Command: Install 'code' command in PATH"
 - Execute the command by clicking the matched result
 
-Then, in terminal, use the newly installed command:
-
-```bash
-  code .
-```
+Open the README file of any given project for further instructions on how to run the example.
